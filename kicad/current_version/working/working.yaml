@@ -1,0 +1,58 @@
+bom_schematic:
+- Cmp name: bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+  DNP: ''
+  Description: '[electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br>'
+  Footprint: oomlout_oomp_part_footprints:bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+  Qnty: '1'
+  Ref: BB_MEGA_1
+  Value: bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+  Vendor: ''
+- Cmp name: bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+  DNP: ''
+  Description: '[electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br><br>'
+  Footprint: oomlout_oomp_part_footprints:bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+  Qnty: '1'
+  Ref: BB_MEGA_2
+  Value: bbmcu_electronic_breakout_board_shennie_mcu_atmega328p
+  Vendor: ''
+- Cmp name: bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32
+  DNP: ''
+  Description: '[electronic_breakout_board_devkitc_mcu_espressif_esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br><br>'
+  Footprint: oomlout_oomp_part_footprints:bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32
+  Qnty: '1'
+  Ref: BB_MEGA_3
+  Value: bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32
+  Vendor: ''
+- Cmp name: hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle
+  DNP: ''
+  Description: ''
+  Footprint: oomlout_oomp_part_footprints:hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle
+  Qnty: '2'
+  Ref: J1, J2
+  Value: hob3thra
+  Vendor: ''
+- Cmp name: hob3thra_electronic_header_oobb_basic_triple_through_hole_right_angle
+  DNP: ''
+  Description: ''
+  Footprint: oomlout_oomp_part_footprints:hob3thra_electronic_header_oobb_basic_triple_through_hole_right_angle
+  Qnty: '8'
+  Ref: J3, J4, J5, J6, J7, J8, J9, J10
+  Value: hob3thra
+  Vendor: ''
+bom_schematic_markdown: "| Ref | Qnty | Value | Cmp name | Footprint | Description\
+  \ | Vendor | DNP | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| BB_MEGA_1\
+  \ | 1 | bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040 | bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040\
+  \ | oomlout_oomp_part_footprints:bbmcu_electronic_breakout_board_pico_mcu_raspberry_pi_2040\
+  \ | [electronic_breakout_board_pico_mcu_raspberry_pi_2040](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040/working)<br><br>\
+  \ |  |  | \n| BB_MEGA_2 | 1 | bbmcu_electronic_breakout_board_shennie_mcu_atmega328p\
+  \ | bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible |\
+  \ oomlout_oomp_part_footprints:bbmcu_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible\
+  \ | [electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible/working)<br><br>\
+  \ |  |  | \n| BB_MEGA_3 | 1 | bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32\
+  \ | bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32 | oomlout_oomp_part_footprints:bbmcu_electronic_breakout_board_devkitc_mcu_espressif_esp32\
+  \ | [electronic_breakout_board_devkitc_mcu_espressif_esp32](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32/working)<br><br>\
+  \ |  |  | \n| J1, J2 | 2 | hob3thra | hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle\
+  \ | oomlout_oomp_part_footprints:hob3thra_electronic_header_oobb_i2c_triple_through_hole_right_angle\
+  \ |  |  |  | \n| J3, J4, J5, J6, J7, J8, J9, J10 | 8 | hob3thra | hob3thra_electronic_header_oobb_basic_triple_through_hole_right_angle\
+  \ | oomlout_oomp_part_footprints:hob3thra_electronic_header_oobb_basic_triple_through_hole_right_angle\
+  \ |  |  |  | \n"
