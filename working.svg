@@ -59,7 +59,7 @@ viewBox="0 0 20000 20000"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_56652416">
+  <g id="_827052768">
    <path class="fil0 str0" d="M22507 11700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
    <circle class="fil0 str0" cx="24707" cy="10000" r="300"/>
    <circle class="fil0 str0" cx="24707" cy="8500" r="300"/>
@@ -83,7 +83,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="24707" cy="9250" r="150"/>
    <circle class="fil0 str0" cx="26207" cy="9250" r="150"/>
   </g>
-  <g id="_53154384">
+  <g id="_823840320">
    <line class="fil1 str1" x1="-963" y1="19480" x2="-1044" y2= "19480" />
    <line class="fil1 str1" x1="-963" y1="19734" x2="-1044" y2= "19734" />
    <path class="fil2" d="M-1183 19488c0,47 -38,85 -85,85 -51,0 -89,-38 -89,-85 0,-51 38,-89 89,-89 47,0 85,38 85,89z"/>
@@ -1439,7 +1439,7 @@ viewBox="0 0 20000 20000"
   <circle class="fil0 str0" cx="-2250" cy="17000" r="150"/>
   <circle class="fil0 str0" cx="2250" cy="17000" r="150"/>
   <rect class="fil0 str0" x="-750" y="16300" width="1500" height="7400"/>
-  <g id="_53142896">
+  <g id="_823786432">
    <circle class="fil0 str0" cx="1524" cy="11920" r="50"/>
    <circle class="fil0 str0" cx="1778" cy="11920" r="50"/>
    <circle class="fil0 str0" cx="2032" cy="11920" r="50"/>
@@ -1451,7 +1451,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="2032" cy="12428" r="50"/>
    <line class="fil0 str0" x1="1524" y1="11666" x2="2032" y2= "11666" />
   </g>
-  <g id="_53137328">
+  <g id="_823779072">
    <circle class="fil0 str0" cy="11920" r="50"/>
    <circle class="fil0 str0" cx="254" cy="11920" r="50"/>
    <circle class="fil0 str0" cx="508" cy="11920" r="50"/>
@@ -1466,7 +1466,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="254" cy="11666" r="50"/>
    <circle class="fil0 str0" cx="508" cy="11666" r="50"/>
   </g>
-  <g id="_53129632">
+  <g id="_824433376">
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 -1257.29 16937.7)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 -1257.29 16683.7)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 -1257.29 16429.7)" r="53"/>
@@ -1481,7 +1481,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 -1511.29 16683.7)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 -1511.29 16429.7)" r="53"/>
   </g>
-  <g id="_53125696">
+  <g id="_824426720">
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 1028.71 16937.7)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 1028.71 16683.7)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 1028.71 16429.7)" r="53"/>
@@ -1496,7 +1496,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 774.71 16683.7)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 -0.945001 0.945001 2.50279E-014 774.71 16429.7)" r="53"/>
   </g>
-  <g id="_53122272">
+  <g id="_824423904">
    <circle class="fil0 str0" cx="3048" cy="18476" r="50"/>
    <circle class="fil0 str0" cx="3302" cy="18476" r="50"/>
    <circle class="fil0 str0" cx="3556" cy="18476" r="50"/>
@@ -1508,7 +1508,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="3556" cy="18984" r="50"/>
    <line class="fil0 str0" x1="3048" y1="18222" x2="3556" y2= "18222" />
   </g>
-  <g id="_859386496">
+  <g id="_824405616">
    <circle class="fil0 str0" cx="3048" cy="19746" r="50"/>
    <circle class="fil0 str0" cx="3302" cy="19746" r="50"/>
    <circle class="fil0 str0" cx="3556" cy="19746" r="50"/>
@@ -1520,7 +1520,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="3556" cy="20254" r="50"/>
    <line class="fil0 str0" x1="3048" y1="19492" x2="3556" y2= "19492" />
   </g>
-  <g id="_859394880">
+  <g id="_824401872">
    <circle class="fil0 str0" cx="3048" cy="21016" r="50"/>
    <circle class="fil0 str0" cx="3302" cy="21016" r="50"/>
    <circle class="fil0 str0" cx="3556" cy="21016" r="50"/>
@@ -1532,7 +1532,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="3556" cy="21524" r="50"/>
    <line class="fil0 str0" x1="3048" y1="20762" x2="3556" y2= "20762" />
   </g>
-  <g id="_859392768">
+  <g id="_824397840">
    <circle class="fil0 str0" cx="-3556" cy="18476" r="50"/>
    <circle class="fil0 str0" cx="-3302" cy="18476" r="50"/>
    <circle class="fil0 str0" cx="-3048" cy="18476" r="50"/>
@@ -1544,7 +1544,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="-3048" cy="18984" r="50"/>
    <line class="fil0 str0" x1="-3556" y1="18222" x2="-3048" y2= "18222" />
   </g>
-  <g id="_859388416">
+  <g id="_824392240">
    <circle class="fil0 str0" cx="-3556" cy="19746" r="50"/>
    <circle class="fil0 str0" cx="-3302" cy="19746" r="50"/>
    <circle class="fil0 str0" cx="-3048" cy="19746" r="50"/>
@@ -1556,7 +1556,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" cx="-3048" cy="20254" r="50"/>
    <line class="fil0 str0" x1="-3556" y1="19492" x2="-3048" y2= "19492" />
   </g>
-  <g id="_55579712">
+  <g id="_908047792">
    <circle class="fil0 str0" cx="-3556" cy="21270" r="50"/>
    <circle class="fil0 str0" cx="-3302" cy="21270" r="50"/>
    <circle class="fil0 str0" cx="-3048" cy="21270" r="50"/>
@@ -1613,7 +1613,7 @@ viewBox="0 0 20000 20000"
   <text x="-1627" y="24848"  class="fil10 fnt0">ppp</text>
   <text x="597" y="24436"  class="fil10 fnt0">basic</text>
   <text x="809" y="24846"  class="fil10 fnt0">qqq</text>
-  <g id="_55595808">
+  <g id="_908065232">
    <circle class="fil0 str0" transform="matrix(2.50279E-014 0.945001 -0.945001 2.50279E-014 1270 23048)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 0.945001 -0.945001 2.50279E-014 1270 23302)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 0.945001 -0.945001 2.50279E-014 1270 23556)" r="53"/>
@@ -1625,7 +1625,7 @@ viewBox="0 0 20000 20000"
    <circle class="fil0 str0" transform="matrix(2.50279E-014 0.945001 -0.945001 2.50279E-014 762 23556)" r="53"/>
    <line class="fil0 str0" x1="1524" y1="23048" x2="1524" y2= "23556" />
   </g>
-  <g id="_55581408">
+  <g id="_908052432">
    <circle class="fil0 str0" transform="matrix(2.50279E-014 0.945001 -0.945001 2.50279E-014 -1270 23048)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 0.945001 -0.945001 2.50279E-014 -1270 23302)" r="53"/>
    <circle class="fil0 str0" transform="matrix(2.50279E-014 0.945001 -0.945001 2.50279E-014 -1270 23556)" r="53"/>
